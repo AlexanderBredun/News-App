@@ -1,5 +1,7 @@
 # your-daily-news
 
+##Web app for tracking your best news  
+
 ## Project setup
 ```
 npm install
